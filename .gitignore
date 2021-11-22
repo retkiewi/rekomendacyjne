@@ -156,8 +156,5 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
-socialmediadata-beeradvocate/datapackage.json
-socialmediadata-beeradvocate/data/beer_reviews.csv
-socialmediadata-beeradvocate/original/beer_reviews.csv
-socialmediadata-beeradvocate/original/wiki-Vote.txt
-socialmediadata-beeradvocate/original/wiki-Vote.txt.gz
+ml-latest-small
+socialmediadata-beeradvocate
